@@ -1,2 +1,2 @@
 # demo-delta
-this is the demo reppo
+This is the demo reppo.
